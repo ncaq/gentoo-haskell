@@ -39,7 +39,6 @@ RDEPEND="dev-haskell/async:=[profile?]
 	dev-haskell/transformers:=[profile?]
 	dev-haskell/transformers-base:=[profile?]
 	>=dev-lang/ghc-7.4.1:=
-	dev-haskell/ghc-api
 "
 DEPEND="${RDEPEND}
 	>=dev-haskell/cabal-1.18
